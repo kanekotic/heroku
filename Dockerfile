@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:latest
 
 LABEL version="2.0.0"
 LABEL repository="http://github.com/actions/heroku"
